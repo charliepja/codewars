@@ -6,4 +6,4 @@ Solutions for [Codewars](https://www.codewars.com "Codewars")
 # Kata's Completed
 
 ### Javascript
-* [Count Characters In Your String](https://www.codewars.com/kata/52efefcbcdf57161d4000091) | [Solution](github.com/charliepja/codewars/Javascript/6_Kyu/count_char_string.js )
+* [Count Characters In Your String](https://www.codewars.com/kata/52efefcbcdf57161d4000091) | [Solution](https://github.com/charliepja/codewars/blob/master/Javascript/6Kyu/count_char_string.js)
